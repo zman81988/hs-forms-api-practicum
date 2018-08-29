@@ -12,9 +12,10 @@
 - Run the app by running `npm start`
 
 ## Resources
-[HubSpot AJAX Forms API](https://developers.hubspot.com/docs/methods/forms/submit_form_ajax)
-[HubSpot Global Callbacks](https://developers.hubspot.com/global-form-events)
-[Using events wtih gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/migration#track_events)
+- [HubSpot AJAX Forms API](https://developers.hubspot.com/docs/methods/forms/submit_form_ajax)
+- [HubSpot Global Callbacks](https://developers.hubspot.com/global-form-events)
+- [Using events wtih gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/migration#track_events)
+- [Google Analytics Debugger Chrome Extension](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna)
 
 ## Instructions
 - Add an AJAX call to the HubSpot API from the form submit handler in [client.js](./public/javascripts/client.js)

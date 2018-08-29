@@ -1,0 +1,23 @@
+{
+  "name": "web-use-cases",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node websocket.js | ./node_modules/.bin/nodemon app.js --ignore websocket.js "
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "body-parser": "~1.15.2",
+    "chokidar": "^1.7.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.14.0",
+    "hbs": "~4.0.1",
+    "morgan": "~1.7.0",
+    "nodejs-websocket": "^1.7.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}

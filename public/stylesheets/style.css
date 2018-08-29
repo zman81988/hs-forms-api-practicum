@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.name{
+  color: #ff8f59;
+}
+
+/* Make emails colored calypso (hex code for calypso found here: https://tools.hubteam.com/ui-library/colors)  */
+
+
+/* Make Submit button live on the right side of the form without using absolute positioning hint: you will have to style other elemetns than just the submit button */

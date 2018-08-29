@@ -17,8 +17,8 @@
 [Using events wtih gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs/migration#track_events)
 
 ## Instructions
-Add an AJAX call to the HubSpot API from the form submit handler in [client.js](./public/javascripts/client.js)
-Tell Google Analytics about a form submission using their Events API in [layout.hbs](./templates/layout.hbs)
+- Add an AJAX call to the HubSpot API from the form submit handler in [client.js](./public/javascripts/client.js)
+- Tell Google Analytics about a form submission using their Events API in [layout.hbs](./templates/layout.hbs)
 
 
 

@@ -1,16 +1,3 @@
-
-var anchorTags = document.getElementsByClassName("anchor")
-
-for (var i = anchorTags.length - 1; i >= 0; i--) {
-  anchorTags[i].addEventListener("click",function(event){
-    console.log(event.target.outerText)
-    var sectionName = event.target.outerText
-    _hsq.push(['setPath',sectionName])
-    _hsq.push(['trackPageView'])
-  })
-}
-
-
 var form = document.getElementById("login")
 
 function login(){
